@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mapa
+comment1.params=grafo
+comment1.target=Mapa(Grafo)
+comment2.params=inicio\ destino
+comment2.target=Camino\ caminoEntre(Ruta,\ Ruta)
+comment3.params=
+comment3.target=java.util.List\ obtenerTodosLosCaminos()
+numComments=4

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Camino
+comment1.params=inicio\ destino\ pasos\ distancia
+comment1.target=Camino(Ruta,\ Ruta,\ java.util.List,\ java.lang.Integer)
+numComments=2

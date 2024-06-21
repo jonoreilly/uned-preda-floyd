@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ruta
+comment1.params=nodo
+comment1.target=Ruta(Nodo)
+comment2.params=destino\ distancia\ siguiente
+comment2.target=void\ setDireccion(Ruta,\ java.lang.Integer,\ Ruta)
+comment3.params=destino
+comment3.target=Direccion\ direccionA(Ruta)
+comment4.params=destino
+comment4.target=java.lang.Integer\ distanciaA(Ruta)
+numComments=5

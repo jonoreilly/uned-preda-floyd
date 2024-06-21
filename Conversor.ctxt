@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Conversor
+comment1.params=id\ linea
+comment1.target=Nodo\ deLineaDelFicheroDeEntradaANodo(java.lang.Integer,\ java.lang.String)
+comment2.params=mapa
+comment2.target=java.lang.String\ deMapaAFicheroDeSalida(Mapa)
+comment3.params=camino
+comment3.target=java.lang.String\ deCaminoALineaDeFicheroDeSalida(Camino)
+comment4.params=aristas
+comment4.target=java.util.List\ deAristasADirecciones(java.util.List)
+comment5.params=mapa
+comment5.target=java.lang.String\ deMapaATabla(Mapa)
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Disco
+comment1.params=fichero
+comment1.target=Grafo\ leerGrafo(java.lang.String)
+comment2.params=mapa\ fichero
+comment2.target=void\ guardarMapa(Mapa,\ java.lang.String)
+comment3.params=mapa\ fichero
+comment3.target=void\ guardarTabla(Mapa,\ java.lang.String)
+numComments=4
